@@ -7,8 +7,8 @@ Practice Codes: Various assembly language programs to practice fundamental conce
 Problem-Solving Techniques: Implementation of algorithms and logic using assembly language.
 
 🛠️ Tools and Environment
-Assembler: MASM/TASM (or specify the assembler you use).
-Platform: DOSBox or any emulator supporting 16-bit assembly programs.
+Assembler: MASM(x86)
+Platform: Visual Studio 2022 (.asm files)
 
 🔗 Topics Covered
 Basic assembly instructions and syntax.
